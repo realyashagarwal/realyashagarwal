@@ -2,9 +2,8 @@
 
 <div align="center">
 
-### Machine Learning Researcher | Computer Vision | Agentic AI
+### Machine Learning | Computer Vision | Agentic AI
 
-**Advancing the Frontiers of Deep Learning, Visual Understanding & Autonomous Intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yashagarwal2004)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y2907ash@gmail.com)
