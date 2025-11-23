@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yashagarwal2004)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y2907ash@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/yashagarwal2004)
 
 </div>
